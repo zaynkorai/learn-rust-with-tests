@@ -1,0 +1,10 @@
+[package]
+name = "integers"
+version = "0.1.0"
+authors = ["korai <zaynulabdin313@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+v1 = { path = "v1" }
+v2 = { path = "v2" }
+
